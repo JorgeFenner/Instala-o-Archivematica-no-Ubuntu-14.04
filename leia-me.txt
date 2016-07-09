@@ -1,0 +1,14 @@
+Shell script desenvolvido por:
+Jorge Fenner (jjunior@inf.ufsm.br)
+Leonardo Steffenello (lsteffenello@inf.ufsm.br)
+Para realizar a instalação: 
+1-	Faça o download do arquivo archivematica.sh
+2-	Abra o terminal do Ubuntu 14.04
+3-	Execute o arquivo com o comando ./archivematica.sh
+4-	Caso necessário forneça permissão para o arquivo ser executando usando o comando chmod.
+5-	Durante a instalação forneça o que for pedido e confirme as alterações que são solicitadas.
+6-	Após instalação concluída acesse pelo navegador o endereço http://localhost:8000
+7-	Faça o login usando 
+a.	User: test
+b.	Password: test
+8-	Com o acesso ao dasboard faça as configurações para sua aplicação.
